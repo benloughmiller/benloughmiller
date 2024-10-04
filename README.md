@@ -1,4 +1,4 @@
-### Welcome to my Github!
+# Welcome to my Github!
 
 ## About Me
 My name is Benjamin Loughmiller, and I am a IT Support Technician and CIT Student at BYU-I. My main area of expertise is in PowerShell script creation, but I learning and utilizing programming languages for my personal and professional projects. 
