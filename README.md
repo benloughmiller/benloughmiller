@@ -7,4 +7,4 @@ Most of my projects are proprietary to my job and cannot be shared, but here is 
 
 - A digital version of the tax collector game used in many middle and high schools to teach factors and logic: [Tax Collector Game](https://github.com/benloughmiller/CSE-310-Module1)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=benloughmiller&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=benloughmiller&theme=tokyonight" alt="mystreak"/>
