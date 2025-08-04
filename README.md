@@ -3,5 +3,5 @@ My name is Benjamin Loughmiller, and I am a IT Support Technician and college st
 
 ## Project Showcase
 - A digital version of the tax collector game used in many middle and high schools to teach factors and logic: [Tax Collector Game](https://github.com/benloughmiller/CSE-310-Module1)
+- A simple script that restarts Windows audio services to troubleshoot audio issues: [Restart Windows Audio Service](https://github.com/benloughmiller/RestartWindowsAudioService)
 
-## Connect with me on LinkedIn! [Link](https://www.linkedin.com/in/benjamin-loughmiller-2a660325b/)
